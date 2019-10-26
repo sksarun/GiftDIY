@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DIYBg</key>
+	<array>
+		<string>DIYBack0.jpg</string>
+		<string>DIYBack1.jpg</string>
+		<string>DIYBack2.jpg</string>
+		<string>DIYBack3.jpg</string>
+		<string>DIYBack4.jpg</string>
+		<string>DIYBack5.jpg</string>
+		<string>DIYBack6.jpg</string>
+		<string>DIYBack7.jpg</string>
+		<string>DIYBack8.jpg</string>
+		<string>DIYBack9.jpg</string>
+		<string>DIYBack10.jpg</string>
+		<string>DIYBack11.jpg</string>
+		<string>DIYBack12.jpg</string>
+		<string>DIYBack13.jpg</string>
+		<string>seaframe.jpg</string>
+	</array>
+	<key>frame</key>
+	<array>
+		<string>BgCr10.png</string>
+		<string>BgCr11.png</string>
+		<string>BgCr12.png</string>
+		<string>BgCr13.png</string>
+		<string>BgCr14.png</string>
+		<string>BgCr15.png</string>
+		<string>BgCr17.png</string>
+		<string>BgCr19.png</string>
+		<string>BgCr21.png</string>
+		<string>BgCr8.png</string>
+		<string>BgCr9.png</string>
+		<string>glass.png</string>
+	</array>
+	<key>DIYFrame</key>
+	<array>
+		<string>bg1.jpg</string>
+		<string>bg2.jpg</string>
+		<string>Bg3.jpg</string>
+		<string>BgCr1.png</string>
+		<string>BgCr18.png</string>
+		<string>BgCr2.png</string>
+		<string>BgCr3.png</string>
+		<string>BgCr4.png</string>
+		<string>BgCr5.png</string>
+		<string>BgCr6.png</string>
+		<string>BgCr7.png</string>
+		<string>DIYBg.jpg</string>
+		<string>DIYBg2.jpg</string>
+		<string>DIYBg3.jpg</string>
+		<string>DIYBg4.jpg</string>
+		<string>DIYBg5.jpg</string>
+		<string>DIYBg6.jpg</string>
+		<string>DIYBg7.jpg</string>
+		<string>DIYBg8.jpg</string>
+		<string>DIYBg9.jpg</string>
+	</array>
+	<key>backgroundframe</key>
+	<array>
+		<string>frame13.png</string>
+		<string>frame14.png</string>
+		<string>frame15.png</string>
+		<string>frameos4.png</string>
+		<string>greenframe.png</string>
+		<string>greensmooth.png</string>
+		<string>greenspace.png</string>
+		<string>heartframe.jpg</string>
+		<string>iGriggyBackground.png</string>
+		<string>woodshelf.png</string>
+		<string>DIYBg10.jpg</string>
+		<string>DIYBg11.jpg</string>
+		<string>DIYBg12.jpg</string>
+		<string>DIYBg13.jpg</string>
+		<string>DIYBg14.jpg</string>
+	</array>
+	<key>zodiac</key>
+	<array>
+		<string>Aquarius.png</string>
+		<string>Aries.png</string>
+		<string>Cancer.png</string>
+		<string>Capricorn.png</string>
+		<string>Gemini.png</string>
+		<string>Lion.png</string>
+		<string>Pisces.png</string>
+		<string>Sagittarius.png</string>
+		<string>Scorpio.png</string>
+		<string>Taurus.png</string>
+		<string>Virgo.png</string>
+		<string>Libra.png</string>
+	</array>
+	<key>animal</key>
+	<array>
+		<string>Bear_64.png</string>
+		<string>bird_64.png</string>
+		<string>dog_64.png</string>
+		<string>cow_64.png</string>
+		<string>dog2_64.png</string>
+		<string>frog_64.png</string>
+		<string>cat_64.png</string>
+		<string>hamster_64.png</string>
+		<string>dog.png</string>
+		<string>pig_64.png</string>
+		<string>panda_64.png</string>
+		<string>penguin_64.png</string>
+		<string>penguine_64.png</string>
+		<string>turtle_64.png</string>
+		<string>Plush-Animal-128.png</string>
+		<string>Plush-Bunny-128.png</string>
+		<string>Plush-Cat-128.png</string>
+		<string>Plush-Hippo-128.png</string>
+		<string>Plush-Monkey-128.png</string>
+		<string>Plush-Teddy-Bear-128.png</string>
+		<string>cat-icon.png</string>
+		<string>dog-icon.png</string>
+		<string>Duck-icon.png</string>
+		<string>hippo-icon.png</string>
+		<string>horse-icon.png</string>
+		<string>human-icon.png</string>
+		<string>mouse-icon.png</string>
+		<string>rabbit-icon.png</string>
+		<string>cat_1.png</string>
+		<string>cat_2.png</string>
+		<string>cat_3.png</string>
+		<string>cat_4.png</string>
+		<string>cat_5.png</string>
+		<string>cat_6.png</string>
+	</array>
+	<key>creature</key>
+	<array>
+		<string>BigEyes_Creature _128x128.png</string>
+		<string>black_creature_128x128.png</string>
+		<string>BlackPower_creature_128x128.png</string>
+		<string>blue_creature_128x128.png</string>
+		<string>blue_monster_128x128.png</string>
+		<string>blue_monster_angry_128x128.png</string>
+		<string>blue_monster_happy_128x128.png</string>
+		<string>brown_creature_128x128.png</string>
+		<string>green_creature_128x128.png</string>
+		<string>green_monster_128x128.png</string>
+		<string>green_monster_angry_128x128.png</string>
+		<string>green_monster_happy_128x128.png</string>
+		<string>orange_creature_128x128.png</string>
+		<string>pink_creature_128x128.png</string>
+		<string>red_creature _128x128.png</string>
+		<string>red_monster_128x128.png</string>
+		<string>red_monster_angry_128x128.png</string>
+		<string>red_monster_happy_128x128.png</string>
+		<string>Tentacles_creature_128x128.png</string>
+		<string>tie_creature_128x128.png</string>
+		<string>white_creature_128x128.png</string>
+		<string>yellow_monster_128x128.png</string>
+		<string>yellow_monster_angry_128x128.png</string>
+		<string>yellow_monster_happy_128x128.png</string>
+	</array>
+	<key>emotion</key>
+	<array>
+		<string>angry-128.png</string>
+		<string>baby-128.png</string>
+		<string>big grin-128.png</string>
+		<string>blushing-128.png</string>
+		<string>confused-128.png</string>
+		<string>crying-128.png</string>
+		<string>forgive me-128.png</string>
+		<string>grimace-128.png</string>
+		<string>laughing-128.png</string>
+		<string>love-128.png</string>
+		<string>painting-128.png</string>
+		<string>sleep-128.png</string>
+		<string>smiling-128.png</string>
+		<string>straight face-128.png</string>
+		<string>waiting-128.png</string>
+		<string>what-128.png</string>
+		<string>worried-128.png</string>
+	</array>
+	<key>space</key>
+	<array>
+		<string>astronaut_128.png</string>
+		<string>Earth.png</string>
+		<string>Jupiter.png</string>
+		<string>Mars.png</string>
+		<string>Mercury.png</string>
+		<string>Moon.png</string>
+		<string>Neptune.png</string>
+		<string>Pluto.png</string>
+		<string>rocket_128.png</string>
+		<string>satellite_128.png</string>
+		<string>Saturn.png</string>
+		<string>saturn_128.png</string>
+		<string>sun_128.png</string>
+		<string>Uranus.png</string>
+		<string>Venus.png</string>
+	</array>
+	<key>nature</key>
+	<array>
+		<string>3_128.png</string>
+		<string>Tree_01_128x128.png</string>
+		<string>Tree_02_128x128.png</string>
+		<string>Tree_03_128x128.png</string>
+		<string>Tree_04_128x128.png</string>
+		<string>Tree_1-128.png</string>
+		<string>Tree_2-128.png</string>
+		<string>leisure_128.png</string>
+		<string>New-year-tree-128-1.png</string>
+		<string>New-Year-Tree-128.png</string>
+		<string>Archyesie-icon.png</string>
+		<string>Bravera-icon.png</string>
+		<string>Frotelie-icon.png</string>
+		<string>Malyvera-icon.png</string>
+		<string>Palentie-icon.png</string>
+		<string>Parthyniesa-icon.png</string>
+		<string>Snowelianta-icon.png</string>
+		<string>Sunnierie-icon.png</string>
+		<string>Tulipacea-icon.png</string>
+		<string>bouquet.png</string>
+		<string>rose.png</string>
+		<string>Eroded-Stone-128.png</string>
+		<string>Grassy-Stone-128.png</string>
+		<string>Snowy-Stone-128.png</string>
+		<string>Spring-Stone-128.png</string>
+		<string>Tropical-Stone-128.png</string>
+	</array>
+	<key>etc</key>
+	<array>
+		<string>archive.png</string>
+		<string>Ball Blue.png</string>
+		<string>Ball Green.png</string>
+		<string>Ball Red.png</string>
+		<string>Ball Yellow.png</string>
+		<string>blackboard-128.png</string>
+		<string>Chat Bubble Alt.png</string>
+		<string>Chat Bubble.png</string>
+		<string>comments.png</string>
+		<string>Copy.png</string>
+		<string>label_black_buy.png</string>
+		<string>label_black_hot.png</string>
+		<string>label_black_new.png</string>
+		<string>label_blue_buy.png</string>
+		<string>label_blue_hot.png</string>
+		<string>label_blue_new.png</string>
+		<string>music.png</string>
+		<string>Paste.png</string>
+		<string>pencil.png</string>
+		<string>puzzle.png</string>
+		<string>star_full.png</string>
+		<string>star_half.png</string>
+		<string>sticker_black_50off.png</string>
+		<string>sticker_blue_50off.png</string>
+		<string>sticker_blue_sale.png</string>
+		<string>tag.png</string>
+		<string>video.png</string>
+	</array>
+	<key>gift</key>
+	<array>
+		<string>1_48.png</string>
+		<string>2_48.png</string>
+		<string>4_48.png</string>
+		<string>5_48.png</string>
+		<string>Aladdin_Lamp_64.png</string>
+		<string>Ball_Blue_2-64.png</string>
+		<string>Ball_Red_2-64.png</string>
+		<string>Ball_Yellow_1-64.png</string>
+		<string>Beatle-128.png</string>
+		<string>box1.png</string>
+		<string>cake.png</string>
+		<string>candle.png</string>
+		<string>Cesta_128x128.png</string>
+		<string>Christmas Letter.png</string>
+		<string>Christmas Mailbox.png</string>
+		<string>Christmas picture.png</string>
+		<string>christmas wreath.png</string>
+		<string>Christmas-Apples-128.png</string>
+		<string>Christmas-Box-Gift-128.png</string>
+		<string>Christmas-Candles-128.png</string>
+		<string>Christmas-Decor-128.png</string>
+		<string>Christmas-Ice-Skates-128.png</string>
+		<string>Christmas-Nature-128.png</string>
+		<string>Christmas-Sweetness-128.png</string>
+		<string>Christmas-Teddy-Bear-128.png</string>
+		<string>Christmas-Tree-128.png</string>
+		<string>golden ball.png</string>
+		<string>golden star.png</string>
+		<string>home.png</string>
+		<string>present.png</string>
+		<string>snowman.png</string>
+	</array>
+	<key>decorate</key>
+	<array>
+		<string>6_128.png</string>
+		<string>Apple-48.png</string>
+		<string>balloons.png</string>
+		<string>Certificate_128.png</string>
+		<string>h1_128.png</string>
+		<string>h2_128.png</string>
+		<string>h3_128.png</string>
+		<string>h4_128.png</string>
+		<string>h5_128.png</string>
+		<string>Hamburger-48.png</string>
+		<string>Hat.png</string>
+		<string>House.png</string>
+		<string>Japan_1_72.png</string>
+		<string>Japan_2_72.png</string>
+		<string>Japan_3_72.png</string>
+		<string>Japan_4_72.png</string>
+		<string>Japan_5_72.png</string>
+		<string>Lava-Lamp.png</string>
+		<string>Poison-48.png</string>
+		<string>Pumpkin.png</string>
+		<string>Red-little-car.png</string>
+		<string>rings.png</string>
+		<string>Salada-Maki-48.png</string>
+		<string>Water-Melon-48.png</string>
+		<string>Wizard-128.png</string>
+		<string>wizard_128.png</string>
+	</array>
+	<key>weather</key>
+	<array>
+		<string>Day darkcloud heavyrain.png</string>
+		<string>Day lightcloud grain.png</string>
+		<string>Day lightcloud rain.png</string>
+		<string>Day lightcloud sleet.png</string>
+		<string>Day lightcloud.png</string>
+		<string>Sun darkcloud heavygrain.png</string>
+		<string>Sun darkcloud heavyrain.png</string>
+		<string>Sun lightcloud grain.png</string>
+		<string>Sun lightcloud rain.png</string>
+		<string>Sun lightcloud sleet.png</string>
+		<string>Sun lightcloud.png</string>
+		<string>Sun littlecloud flash rain.png</string>
+		<string>Sun littlecloud rain.png</string>
+		<string>Sun littlecloud.png</string>
+		<string>Sun.png</string>
+	</array>
+	<key>sport</key>
+	<array>
+		<string>basketball-64x64.png</string>
+		<string>basketball_128.png</string>
+		<string>Basketball_64x64.png</string>
+		<string>favorites_64.png</string>
+		<string>internet_64.png</string>
+		<string>mydocuments_64.png</string>
+		<string>mypc_64.png</string>
+		<string>nba-logo-128x128.png</string>
+		<string>network_64.png</string>
+		<string>player-128x128.png</string>
+	</array>
+</dict>
+</plist>

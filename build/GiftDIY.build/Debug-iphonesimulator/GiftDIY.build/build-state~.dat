@@ -1,0 +1,258 @@
+TGiftDIY
+v7
+r0
+t311101381.101188
+cCheck dependencies
+cProcessInfoPlistFile /Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app/Info.plist GiftDIY-Info.plist
+cCompileXIB /Users/Tong/Documents/GiftDIY/MainWindow.xib
+cCompileXIB /Users/Tong/Documents/GiftDIY/GiftDIYViewController.xib
+cProcessPCH /var/folders/jC/jC6briycEYaqrk-O81Vj7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GiftDIY_Prefix-gxkjcyuhkjnlptbatpitwfdopktx/GiftDIY_Prefix.pch.gch GiftDIY_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/Objects-normal/i386/main.o /Users/Tong/Documents/GiftDIY/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/Objects-normal/i386/GiftDIYAppDelegate.o /Users/Tong/Documents/GiftDIY/Classes/GiftDIYAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/Objects-normal/i386/GiftDIYViewController.o /Users/Tong/Documents/GiftDIY/Classes/GiftDIYViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app/GiftDIY normal i386
+cGenerateDSYMFile /Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app.dSYM /Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app/GiftDIY
+cTouch /Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/Tong/Documents/GiftDIY/Classes/GiftDIYAppDelegate.h
+c000000004CDACE3400000000000001D8
+t1289408052
+s472
+i<UIKit/UIKit.h>
+
+N/Users/Tong/Documents/GiftDIY/Classes/GiftDIYAppDelegate.m
+c000000004CDACE340000000000000A84
+t1289408052
+s2692
+i"GiftDIYAppDelegate.h"
+i"GiftDIYViewController.h"
+
+N/Users/Tong/Documents/GiftDIY/Classes/GiftDIYViewController.h
+c000000004CDACF3D00000000000001A2
+t1289408317
+s418
+i<UIKit/UIKit.h>
+
+N/Users/Tong/Documents/GiftDIY/Classes/GiftDIYViewController.m
+c000000004CDAD0130000000000000A5F
+t1289408531
+s2655
+i"GiftDIYViewController.h"
+
+N/Users/Tong/Documents/GiftDIY/GiftDIYViewController.xib
+c000000004CDACF5E00000000000047B0
+t1289408350
+s18352
+
+N/Users/Tong/Documents/GiftDIY/GiftDIY_Prefix.pch
+c000000004CDACE3400000000000000B7
+t1289408052
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Tong/Documents/GiftDIY/MainWindow.xib
+c000000004CDACE340000000000004E29
+t1289408052
+s20009
+
+N/Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app
+t1289408581
+s238
+
+N/Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app.dSYM
+t1289408581
+s102
+
+N/Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app/GiftDIY
+t1289408581
+s18448
+
+N/Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app/GiftDIYViewController.nib
+t1289408578
+s2438
+
+N/Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app/Info.plist
+t1289408577
+s591
+
+N/Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app/MainWindow.nib
+t1289408578
+s1681
+
+N/Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app/PkgInfo
+t1289408577
+s8
+
+N/Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/Objects-normal/i386/GiftDIY.LinkFileList
+c000000004CDAD0410000000000000172
+t1289408577
+s370
+
+N/Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/Objects-normal/i386/GiftDIYAppDelegate.o
+t1289408580
+s47908
+
+N/Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/Objects-normal/i386/GiftDIYViewController.o
+t1289408580
+s46580
+
+N/Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/Objects-normal/i386/main.o
+t1289408580
+s6284
+
+N/Users/Tong/Documents/GiftDIY/main.m
+c000000004CDACE340000000000000162
+t1289408052
+s354
+i<UIKit/UIKit.h>
+
+N/var/folders/jC/jC6briycEYaqrk-O81Vj7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GiftDIY_Prefix-gxkjcyuhkjnlptbatpitwfdopktx/GiftDIY_Prefix.pch.gch
+t1289408580
+s15211536
+
+NGiftDIY-Info.plist
+c000000004CDACE34000000000000038D
+t1289408052
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311101377#311101377#0(0"0(0#1#0"8644379072#0"0#
+
+CCompileC build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/Objects-normal/i386/GiftDIYAppDelegate.o /Users/Tong/Documents/GiftDIY/Classes/GiftDIYAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311101380.366695
+e311101380.631102
+r1
+xCompileC
+xbuild/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/Objects-normal/i386/GiftDIYAppDelegate.o
+x/Users/Tong/Documents/GiftDIY/Classes/GiftDIYAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/Tong/Documents/GiftDIY/Classes/GiftDIYAppDelegate.m311101380#311101380#0(0"0(0#0#58"/Users/Tong/Documents/GiftDIY/Classes/GiftDIYAppDelegate.m8644737792#1851"    cd /Users/Tong/Documents/GiftDIY    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/GiftDIY-generated-files.hmap -I/Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/GiftDIY-own-target-headers.hmap -I/Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/GiftDIY-all-target-headers.hmap -iquote /Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/GiftDIY-project-headers.hmap -F/Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator -I/Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/include -I/Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/DerivedSources/i386 -I/Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/DerivedSources -include /var/folders/jC/jC6briycEYaqrk-O81Vj7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GiftDIY_Prefix-gxkjcyuhkjnlptbatpitwfdopktx/GiftDIY_Prefix.pch -c /Users/Tong/Documents/GiftDIY/Classes/GiftDIYAppDelegate.m -o /Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/Objects-normal/i386/GiftDIYAppDelegate.o0#
+
+CCompileC build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/Objects-normal/i386/GiftDIYViewController.o /Users/Tong/Documents/GiftDIY/Classes/GiftDIYViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311101380.563804
+e311101380.672268
+r1
+xCompileC
+xbuild/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/Objects-normal/i386/GiftDIYViewController.o
+x/Users/Tong/Documents/GiftDIY/Classes/GiftDIYViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Tong/Documents/GiftDIY/Classes/GiftDIYViewController.m: In function '-[GiftDIYViewController pickPhoto:]':
+o/Users/Tong/Documents/GiftDIY/Classes/GiftDIYViewController.m:68: warning: class 'GiftDIYViewController' does not implement the 'UINavigationControllerDelegate' protocol
+lSLF07#2@69"Compile /Users/Tong/Documents/GiftDIY/Classes/GiftDIYViewController.m311101380#311101380#0(284"/Users/Tong/Documents/GiftDIY/Classes/GiftDIYViewController.m: In function '-[GiftDIYViewController pickPhoto:]':/Users/Tong/Documents/GiftDIY/Classes/GiftDIYViewController.m:68: warning: class 'GiftDIYViewController' does not implement the 'UINavigationControllerDelegate' protocol1(22@94"Class 'GiftDIYViewController' does not implement the 'UINavigationControllerDelegate' protocol311101380#114#170#0(6@61"/Users/Tong/Documents/GiftDIY/Classes/GiftDIYViewController.m311101331#68#0#68#0#45"class '*' does not implement the '*' protocol0(0#0#61"/Users/Tong/Documents/GiftDIY/Classes/GiftDIYViewController.m8640046432#1857"    cd /Users/Tong/Documents/GiftDIY    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/GiftDIY-generated-files.hmap -I/Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/GiftDIY-own-target-headers.hmap -I/Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/GiftDIY-all-target-headers.hmap -iquote /Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/GiftDIY-project-headers.hmap -F/Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator -I/Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/include -I/Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/DerivedSources/i386 -I/Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/DerivedSources -include /var/folders/jC/jC6briycEYaqrk-O81Vj7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GiftDIY_Prefix-gxkjcyuhkjnlptbatpitwfdopktx/GiftDIY_Prefix.pch -c /Users/Tong/Documents/GiftDIY/Classes/GiftDIYViewController.m -o /Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/Objects-normal/i386/GiftDIYViewController.o0#
+
+CCompileC build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/Objects-normal/i386/main.o /Users/Tong/Documents/GiftDIY/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311101380.365350
+e311101380.563599
+r1
+xCompileC
+xbuild/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/Objects-normal/i386/main.o
+x/Users/Tong/Documents/GiftDIY/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/Tong/Documents/GiftDIY/main.m311101380#311101380#0(0"0(0#0#36"/Users/Tong/Documents/GiftDIY/main.m8638404960#1815"    cd /Users/Tong/Documents/GiftDIY    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/GiftDIY-generated-files.hmap -I/Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/GiftDIY-own-target-headers.hmap -I/Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/GiftDIY-all-target-headers.hmap -iquote /Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/GiftDIY-project-headers.hmap -F/Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator -I/Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/include -I/Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/DerivedSources/i386 -I/Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/DerivedSources -include /var/folders/jC/jC6briycEYaqrk-O81Vj7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GiftDIY_Prefix-gxkjcyuhkjnlptbatpitwfdopktx/GiftDIY_Prefix.pch -c /Users/Tong/Documents/GiftDIY/main.m -o /Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Tong/Documents/GiftDIY/GiftDIYViewController.xib
+s311101377.668576
+e311101378.647843
+r1
+xCompileXIB
+x/Users/Tong/Documents/GiftDIY/GiftDIYViewController.xib
+lSLF07#2@36"CompileXIB GiftDIYViewController.xib311101377#311101378#0(0"0(0#0#55"/Users/Tong/Documents/GiftDIY/GiftDIYViewController.xib8641548096#565"    cd /Users/Tong/Documents/GiftDIY    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app/GiftDIYViewController.nib /Users/Tong/Documents/GiftDIY/GiftDIYViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/Tong/Documents/GiftDIY/MainWindow.xib
+s311101377.666652
+e311101378.571843
+r1
+xCompileXIB
+x/Users/Tong/Documents/GiftDIY/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib311101377#311101378#0(0"0(0#0#44"/Users/Tong/Documents/GiftDIY/MainWindow.xib8643751968#543"    cd /Users/Tong/Documents/GiftDIY    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app/MainWindow.nib /Users/Tong/Documents/GiftDIY/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app.dSYM /Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app/GiftDIY
+s311101381.045548
+e311101381.097026
+r1
+xGenerateDSYMFile
+x/Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app.dSYM
+x/Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app/GiftDIY
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/GiftDIY.app.dSYM build/Debug-iphonesimulator/GiftDIY.app/GiftDIY311101381#311101381#0(0"0(0#0#77"/Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app/GiftDIY8642152608#356"    cd /Users/Tong/Documents/GiftDIY    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app/GiftDIY -o /Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app.dSYM0#
+
+CLd /Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app/GiftDIY normal i386
+s311101380.672370
+e311101381.045455
+r1
+xLd
+x/Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app/GiftDIY
+xnormal
+xi386
+lSLF07#2@82"Link /Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app/GiftDIY311101380#311101381#0(0"0(0#0#0"8631937792#855"    cd /Users/Tong/Documents/GiftDIY    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator -F/Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator -filelist /Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/Objects-normal/i386/GiftDIY.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app/GiftDIY0#
+
+CProcessInfoPlistFile /Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app/Info.plist GiftDIY-Info.plist
+s311101377.662441
+e311101377.666562
+r1
+xProcessInfoPlistFile
+x/Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app/Info.plist
+xGiftDIY-Info.plist
+lSLF07#2@26"Process GiftDIY-Info.plist311101377#311101377#0(0"0(0#0#48"/Users/Tong/Documents/GiftDIY/GiftDIY-Info.plist8644549664#452"    cd /Users/Tong/Documents/GiftDIY    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GiftDIY-Info.plist -genpkginfo /Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app/Info.plist0#
+
+CProcessPCH /var/folders/jC/jC6briycEYaqrk-O81Vj7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GiftDIY_Prefix-gxkjcyuhkjnlptbatpitwfdopktx/GiftDIY_Prefix.pch.gch GiftDIY_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311101378.648065
+e311101380.365053
+r1
+xProcessPCH
+x/var/folders/jC/jC6briycEYaqrk-O81Vj7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GiftDIY_Prefix-gxkjcyuhkjnlptbatpitwfdopktx/GiftDIY_Prefix.pch.gch
+xGiftDIY_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile GiftDIY_Prefix.pch311101378#311101380#0(0"0(0#0#48"/Users/Tong/Documents/GiftDIY/GiftDIY_Prefix.pch8644005696#1716"    cd /Users/Tong/Documents/GiftDIY    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/GiftDIY-generated-files.hmap -I/Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/GiftDIY-own-target-headers.hmap -I/Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/GiftDIY-all-target-headers.hmap -iquote /Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/GiftDIY-project-headers.hmap -F/Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator -I/Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/include -I/Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/DerivedSources/i386 -I/Users/Tong/Documents/GiftDIY/build/GiftDIY.build/Debug-iphonesimulator/GiftDIY.build/DerivedSources -c /Users/Tong/Documents/GiftDIY/GiftDIY_Prefix.pch -o /var/folders/jC/jC6briycEYaqrk-O81Vj7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GiftDIY_Prefix-gxkjcyuhkjnlptbatpitwfdopktx/GiftDIY_Prefix.pch.gch0#
+
+CTouch /Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app
+s311101381.097114
+e311101381.101128
+r1
+xTouch
+x/Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app
+lSLF07#2@75"Touch /Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app311101381#311101381#0(0"0(0#0#0"8640134144#260"    cd /Users/Tong/Documents/GiftDIY    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Tong/Documents/GiftDIY/build/Debug-iphonesimulator/GiftDIY.app0#
+
